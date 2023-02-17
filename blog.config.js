@@ -68,8 +68,8 @@ const BLOG = {
     // support provider: utterances, supacomments
     provider: '', // leave it empty if you don't need any comment plugin
     supaCommentsConfig: {
-      supabaseUrl: '', // The url of your Supabase instance
-      supabaseAnonKey: '' // The anonymous key of your Supabase instance
+      supabaseUrl: 'https://vnjjydlirbafcglbzpqz.supabase.co', // The url of your Supabase instance
+      supabaseAnonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZuamp5ZGxpcmJhZmNnbGJ6cHF6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2NzY2NjIyMTYsImV4cCI6MTk5MjIzODIxNn0.N32IEk_QclAy5WgNw5c4_m6Ka7d_KKX8IK573EG-Ndc' // The anonymous key of your Supabase instance
     },
     utterancesConfig: {
       repo: ''
